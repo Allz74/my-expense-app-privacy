@@ -1,7 +1,7 @@
-Privacy Policy for Expense Tracker
+Privacy Policy for Cashtrax
 Last Updated: June 20, 2025
 
-Thank you for using our Expense Tracker application. This Privacy Policy explains what information we collect and how we protect it. Your privacy is critically important to us.
+Thank you for using our Cashtrax application. This Privacy Policy explains what information we collect and how we protect it. Your privacy is critically important to us.
 
 1. Information We Collect
 
